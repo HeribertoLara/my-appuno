@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-appuno/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/my-appuno/static/js/main.584f23b4.chunk.js",
+    "main.js.map": "/my-appuno/static/js/main.584f23b4.chunk.js.map",
+    "runtime-main.js": "/my-appuno/static/js/runtime-main.66fbc82d.js",
+    "runtime-main.js.map": "/my-appuno/static/js/runtime-main.66fbc82d.js.map",
+    "static/js/2.6610a979.chunk.js": "/my-appuno/static/js/2.6610a979.chunk.js",
+    "static/js/2.6610a979.chunk.js.map": "/my-appuno/static/js/2.6610a979.chunk.js.map",
+    "index.html": "/my-appuno/index.html",
+    "precache-manifest.c738437d0825b8549c7894deb1177de5.js": "/my-appuno/precache-manifest.c738437d0825b8549c7894deb1177de5.js",
+    "service-worker.js": "/my-appuno/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/my-appuno/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6610a979.chunk.js.LICENSE.txt": "/my-appuno/static/js/2.6610a979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66fbc82d.js",
+    "static/js/2.6610a979.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.584f23b4.chunk.js"
+  ]
+}
